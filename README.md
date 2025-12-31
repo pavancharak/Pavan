@@ -2,10 +2,10 @@
 
 ## Product Manager | Growth | GenAI Enthusiast
 
-- 🔭 Currently working on: Product growth & GenAI systems
-- 🌱 Learning: LLMs, RAG, APIs, experimentation
-- 💼 Experience: Consumer & marketplace products
-- ✍️ Writing at: Product Loop (newsletter)
+- Currently working on: Product growth & GenAI systems
+- Learning: LLMs, RAG, APIs, experimentation
+- Experience: Consumer & marketplace products
+- Writing at: Product Loop (newsletter)
 
 ### 🔧 Tools & Skills
 Product Management · A/B Testing · SQL · APIs · GenAI · Growth Metrics
