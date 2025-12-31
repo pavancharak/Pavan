@@ -11,39 +11,52 @@
 
 ## Product Experience (7+ Years)
 
-### Co-founder | Stock Market Explainers
+### Co-founder | Stock Market Explainers  
+**May 2024 – July 2025**
 - Building an education-first product simplifying stock market and investing concepts
 - Designed content-led product experiences using storytelling, infographics, and comics
 - Owned end-to-end product thinking: discovery, positioning, distribution, and iteration
 
 ---
 
-### Product Manager | Bada Business
+### Product Manager | Bada Business  
+**Feb 2023 – Jun 2023**
 - Contributed to product strategy and growth initiatives for digital learning platforms
 - Focused on user engagement, funnel optimization, and content-led adoption
 - Translated business goals into clear product requirements with technology teams
 
 ---
 
-### Product Owner | Shaadi.com
+### Product Owner | Shaadi.com  
+**Oct 2021 – Jan 2023**
 - Owned onboarding, activation, and Trust & Safety for a 2M+ MAU consumer platform
-- Reduced platform misuse by 40% through ML-driven fraud detection and KYC integrations
+- Reduced platform misuse through ML-driven fraud detection and KYC integrations
 - Led a cross-functional pod (Engineering, Design, Data) to deliver metric-driven outcomes
 
 ---
 
-### Growth Manager | MakeMyTrip
+### Growth Manager | MakeMyTrip  
+**Apr 2016 – Mar 2020**
 - Owned growth and P&L for a large-scale online hotel portfolio (₹100 Cr+ monthly GMV)
 - Drove revenue growth through pricing strategy, lifecycle optimization, and funnel improvements
 - Worked closely with Product, Supply, and Analytics teams on monetization and retention levers
 
 ---
 
+## Product Achievements
+
+- **Enhanced platform trust:** Built and launched third-party ID verification APIs, reducing misuse incidents by **40%** and verifying **60%+ of active users**.
+- **Accelerated onboarding:** Developed an ML-powered photo verification SaaS using Amazon Rekognition, cutting onboarding time by **35%** without hurting activation.
+- **Optimized acquisition funnel:** Re-architected onboarding and activation flows, driving a **15% reduction in CAC** through structured experimentation and funnel analysis.
+- **Increased retention and partner revenue:** Delivered **25% YoY growth** and managed **₹100 Cr+ monthly GMV** by automating partner lifecycle and engagement journeys.
+
+---
+
 ## Product + Tech Focus
 - Translating business problems into technical product requirements
-- Designing AI-first user journeys (onboarding, activation, trust and safety)
+- Designing AI-first user journeys across onboarding, activation, and trust and safety
 - Defining success metrics, guardrails, and experimentation frameworks
-- Partnering with Engineering, Data, and ML teams on system design
+- Partnering with Engineering, Data, and ML teams on system design and trade-offs
 
 ---
 
@@ -70,9 +83,9 @@ System focus: model selection, performance constraints, evaluation frameworks
 ---
 
 ### Retrieval-Augmented Generation (RAG) Knowledge System
-- Designed an end-to-end RAG architecture: ingestion, chunking, embeddings, retrieval, generation
+- Designed an end-to-end RAG architecture covering ingestion, chunking, embeddings, retrieval, and generation
 - Implemented grounding, citation strategies, and fallback logic to reduce hallucinations
-- Defined success metrics: answer accuracy, retrieval precision, response latency
+- Defined success metrics for accuracy, retrieval precision, and response latency
 
 System focus: reliability, correctness, failure handling
 
@@ -81,7 +94,7 @@ System focus: reliability, correctness, failure handling
 ### API-first GenAI Platform
 - Designed a service-oriented GenAI API layer exposing LLM capabilities to multiple clients
 - Defined request contracts, authentication assumptions, error taxonomies, and rate-limit policies
-- Planned extensibility via model swaps, versioning, and observability hooks
+- Planned extensibility through model swaps, versioning, and observability hooks
 
 System focus: scalability, developer experience, platform thinking
 
