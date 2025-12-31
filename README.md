@@ -3,7 +3,7 @@
 ## Product Manager | Growth | GenAI Enthusiast
 
 - Currently working on: Product growth & GenAI systems
-- Learning: LLMs, RAG, APIs, experimentation
+- Learning: Opensorce LLMs, RAG, APIs, Langchain, experimentation
 - Experience: Consumer & marketplace products
 - Writing at: Product Loop (newsletter)
 
